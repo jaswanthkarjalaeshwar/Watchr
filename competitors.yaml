@@ -1,0 +1,18 @@
+competitors:
+  - name: Notion
+    pricing_url: https://www.notion.so/pricing
+    changelog_url: https://www.notion.so/releases
+    linkedin_slug: notionhq
+    careers_url: https://www.notion.so/careers
+
+  - name: Linear
+    pricing_url: https://linear.app/pricing
+    changelog_url: https://linear.app/changelog
+    linkedin_slug: linear-app
+    careers_url: https://linear.app/careers
+
+  - name: Figma
+    pricing_url: https://www.figma.com/pricing
+    changelog_url: https://www.figma.com/whats-new
+    linkedin_slug: figma
+    careers_url: https://www.figma.com/careers
