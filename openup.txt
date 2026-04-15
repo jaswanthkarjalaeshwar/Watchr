@@ -1,4 +1,0 @@
-cd C:\Users\jaswa\competitor-watcher
-venv\Scripts\activate
-python scraper.py     ← collects fresh snapshots, free
-python reporter.py    ← summarizes + sends to Slack, uses API credits
